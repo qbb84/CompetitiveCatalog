@@ -13,7 +13,7 @@ Welcome to CompetitiveCatalog! This is my personal journey into the world of com
 
 ## 📚 Table of Contents
 
-- [About](#about)
+- [About](##about)
 - [Solutions](#solutions)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
@@ -47,7 +47,7 @@ CompetitiveCatalog is more than just a personal journey; it's a platform for lea
 
 ## 🤝 Contributing
 
-I warmly welcome any contributions to CompetitiveCatalog! If you have unique solutions, innovative approaches, or new learning resources, feel free to contribute to this repository via a pull request. Kindly adhere to the guidelines mentioned in the contributing guidelines file to ensure a smooth contribution process.
+I warmly welcome any contributions to CompetitiveCatalog! If you have unique solutions, innovative approaches, or new learning resources, feel free to contribute to this repository via a pull request. Kindly adhere to the guidelines mentioned in the <a href="CONTRIBUTING.md">contributing guidelines</a> file to ensure a smooth contribution process.
 
 ---
 
