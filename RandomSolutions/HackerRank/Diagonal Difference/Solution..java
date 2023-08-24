@@ -22,7 +22,8 @@ class Result {
             for(int i : list){
                 intList.add(i);
         }
-            }
+
+     }
 
         //Right to left
         for(int i = arraySize - 1; i < totalSize - 1; i = i + arraySize - 1){
